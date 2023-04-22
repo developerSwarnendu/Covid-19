@@ -384,8 +384,7 @@ img[src='images/virus4.png']{
 }
 #update button{
     border: 0;
-/*     background-color: #0a264a; */
-    background-color: red;
+    background-color: #0a264a;
     color: #fefefd;
     width: 220px;
     padding: 10px 0;
